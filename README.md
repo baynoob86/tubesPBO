@@ -1,2 +1,2 @@
 # tubesPBO
-saya Basith,ini tugas kuliah untuk memenuhi syarat nilai 
+saya membuat aplikasi to do list ini untuk untuk memenuhi syarat nilai kuliah saya 
